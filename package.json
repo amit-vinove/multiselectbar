@@ -1,8 +1,8 @@
 {
   "name": "multiselectbar",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "",
-  "main": "index.js",
+  "main": "./build/index.js",
   "scripts": {
     "build": "webpack"
   },
@@ -15,10 +15,6 @@
     "react-bootstrap": "^2.3.1",
     "react-bootstrap-icons": "^1.8.2",
     "styled-components": "^5.3.5",
-    "css-loader": "^3.3.0",
-    "style-loader": "^1.0.1",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
@@ -28,6 +24,10 @@
     "@babel/preset-react": "^7.16.7",
     "@rollup/plugin-babel": "^5.3.1",
     "babel-loader": "^8.0.6",
-    "autoprefixer": "^10.4.7"
+    "autoprefixer": "^10.4.7",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   }
 }
