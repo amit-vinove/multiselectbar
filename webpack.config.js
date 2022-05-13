@@ -3,7 +3,7 @@ var path = require("path");
 
 module.exports = {
   mode: "production",
-  entry: "./src/Multiselect.js",
+  entry: "./src/index.js",
   output: {
     path: path.resolve("build"),
     filename: "index.js",
