@@ -4,6 +4,8 @@
 
 A React component which provides multi select functionality with various features like Easy customization, search option, Avatar icon with Dynamic colors , Responsive Design and Lightweight library.
 
+![Multiselect](src/multiselectbar.png)
+
 ## 🏳️‍🌈 Getting Started
 
 ## 1. Installation 🔧
