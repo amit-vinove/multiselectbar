@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { XCircleFill, CaretDownFill } from "react-bootstrap-icons";
 import styled from "styled-components";
 import multiselectBarCss from "./Multiselect.css"
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card } from "react-bootstrap";
 
 
