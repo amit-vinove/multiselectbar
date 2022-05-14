@@ -1,6 +1,6 @@
 {
   "name": "multiselectbar",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "",
   "main": "./build/index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amit-vinove/multiselectbar"
+  },
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
